@@ -1,0 +1,11 @@
+langchain-astradb
+langchain_astradb
+langchain 
+langchain-openai
+langchain-google-genai
+langchain_google_genai
+datasets
+pypdf
+python-dotenv
+flask
+
